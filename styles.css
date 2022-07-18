@@ -31,7 +31,7 @@ body, html {
     font-family: var(--font);
 }
 
-img {
+.profile-pic {
     display: block;
     margin-left: auto;
     margin-right: auto;
